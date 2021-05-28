@@ -1,4 +1,4 @@
 linha1
-nova linha 2
+bug fix na linha 2
 linha3
 linha4
